@@ -1,0 +1,26 @@
+{
+  "versions": [
+    {
+      "version": "0.3.0",
+      "title": "First Release",
+      "date": "2026-10-31",
+      "size": "First release",
+      "summary": "Wobbly bobble-heads fight endless zombies. Play alone or with up to four friends.",
+      "intro": "Flopocalypse comes to the Firefly Launcher! You are a wobbly bobble-head. They are zombies. Everybody flops.",
+      "download": "https://github.com/ChocolateWafer1/flopocalypse-releases/releases/download/v0.3.0/Flopocalypse-0.3.0-win.zip",
+      "bytes": 25772236,
+      "sha256": "ce4458ed451b50b173a78991259d2908e7738027c2e4704f97aafb51907c3fe2",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "Co-op lobbies|Walk into a circle, pick a map and difficulty, and take up to four friends with you.",
+            "Ragdoll everything|Zombies flop when you hit them, then burn away into embers.",
+            "20 weapons and 34 enemies|Upgrade weapons three times over, and survive bosses every 15 waves."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/flopocalypse-releases/main/pictures/release-1.jpg"
+    }
+  ]
+}
